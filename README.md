@@ -17,8 +17,7 @@
   <a href="https://www.promptfoo.dev/docs/getting-started/">Getting Started</a> ·
   <a href="https://www.promptfoo.dev/docs/red-team/">Red Teaming</a> ·
   <a href="https://www.promptfoo.dev/docs/">Documentation</a> ·
-  <a href="https://discord.gg/gHPS9jjfbs">Discord</a>
-</p>
+  <a href="https://discord.gg/gHPS9jjfbs">Discord</a></p>
 
 > Promptfoo is now part of OpenAI. Promptfoo remains open source and MIT licensed. Read the [company update](https://www.promptfoo.dev/blog/promptfoo-joining-openai/).
 
